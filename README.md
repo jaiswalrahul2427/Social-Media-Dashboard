@@ -1,5 +1,5 @@
 
-# Social Media Web Application
+## Social Media Web Application
 This repository contains the code for a social media web application built using HTML, CSS, and JavaScript. The application features various functionalities including posting stories, writing posts, interacting with posts (liking, commenting, sharing), and accessing different sections like news, friends, groups, and events.
 
 **Table of Contents**
